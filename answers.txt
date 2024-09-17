@@ -8,3 +8,7 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 Answer: robotics; for example when designing uncontained robots, they need to take in their surroundings and process it, in order to maneuver in a safely for itself and for people and things around it.
 
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines the branches where they are now, rebasing combines the branches through the whole history.
+
