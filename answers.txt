@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: robotics; for example when designing uncontained robots, they need to take in their surroundings and process it, in order to maneuver in a safely for itself and for people and things around it.
+
